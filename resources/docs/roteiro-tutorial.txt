@@ -1,0 +1,70 @@
+ROTEIRO PRIMEIRO NIVEL
+tl;dr: a ideia eh apresentar algumas mecanicas basicas no ap da aysha, tipo movimentacao, interacao e inventario, e dai meio que passar pelo primeiro dia do estagio com ela pra apresentar os personagens, explicar um pouco da historia e fazer worldbuilding
+
+
+[CENA 1 - Apartamento de Aysha - Manha]
+
+# Quarto
+Aysha acorda com o alarme, um pouco atrasada
+	AYSHA: Ai meu deus, o alarme ja ta tocando faz tempo. Preciso ir me arrumar pro primeiro dia, mas to com muito sono. Acho que eu deveria ir ao banheiro primeiro e lavar o rosto pra despertar.
+<!> Va ao banheiro para lavar o rosto.
+(Apresentar mecanica de movimento: Use WASD para se movimentar)
+
+# Banheiro
+Ao entrar no banheiro, Aysha acende a luz e olha pra pia
+	AYSHA: Tomara que a água nao esteja muito fria...
+<!> Lave o rosto na pia
+(Apresentar mecanica de interacao: Pressione E para interagir com objetos)
+
+Aysha lava o rosto na pia
+	AYSHA: Ah, bem melhor, agora preciso pegar minhas coisas e me vestir, rapido.
+<!> Volte ao quarto
+
+# Quarto
+Ao voltar pro quarto, Aysha olha ao redor, suas roupas espalhadas
+	AYSHA: Ai, depois eu arrumo tudo isso, senao vou me atrasar... Preciso só ver se meu laptop ta na mochila.
+<!> Verifique se o laptop esta na sua mochila
+(Apresentar mecanica de inventario: Pressione TAB para abrir o inventario)
+
+Aysha olha pra dentro da mochila e ve seu laptop la dentro
+	AYSHA: Ufa, ta aki ja, agora preciso de roupas... pegar uma blusa no armario, colocar minhas calcas e sapatos, e onde esta meu moletom mesmo?
+<!> Pegue suas roupas espalhadas pelo quarto
+(Apresentar mecanica de coleta de itens: Pressione E para colocar itens no seu inventario)
+
+Aysha pega a blusa no armario, as calcas no encosto da cadeira da escrivaninha, os sapatos debaixo da cama e o moletom pendurado atras da porta do quarto
+	AYSHA: Okei, peguei tudo, só preciso me vestir.
+<!> Vista suas roupas
+(Apresentar mecanica de equipamento: Abra o inventario e Selecione as roupas de Aysha para equipa-las)
+
+Após se vestir, o estomago de Aysha ronca
+	AYSHA: Nossa, que fome, vou tomar café rapidinho e depois ja saio.
+<!> Vá ateh a cozinha tomar café
+
+Ao chegar na cozinha, a mae de aysha grita com ela
+	MAE: Menina, que demora toda é essa, vc nao viu a hora nao? Corre pra nao perder seu onibus!
+	AYSHA: Que? Como assim?
+Aysha olha o relogio e percebe que esta muito atrasada
+	AYSHA: AI MEU DEUS, nao vai dar tempo de comer, eu preciso ir AGORA!
+Aysha vai ateh a porta pra sair
+	MAE: Mas e o café, filha?
+	AYSHA: *gritando de longe* EU COMO ALGO POR LA; MAE; BEIJO!
+Em frente a porta de casa
+	AYSHA: Da tempo de chegar no horario ainda se eu for correndo
+<!> Corra até o ponto de onibus
+(Apresentar mecanica de corrida: Segure SHIFT para correr)
+
+Aysha chega no ponto ao mesmo tempo que o onibus
+	AYSHA: *ofegante* Meu Deus, deu tempo, socorro...
+Aysha entra no onibus e fim da CENA 1
+
+
+[CENA 2 - Aquario Local - Manha]
+! Fazer algumas quests como se fosse o trampo dela, mas tbm pra apresentar mecanicas, tipo o bestiario, e tbm apresentar alguns dos personagens chave
+
+
+[CENA 3 - Aquario Local - Almoco]
+! Deixar livre pro player poder explorar o aquario e interagir com os objetos e os outros funcionarios pra poder aprender mais sobre o mundo e os personagens por meio de dialogo
+
+
+[CENA 4 - Apartamento - Noite]
+Aysha ve no noticiario os salvadores da patria
