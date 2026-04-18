@@ -1,0 +1,13 @@
+MECÂNICAS DO MARINE
+
+TRIPULAÇÃO:
+-Capitão: Conduzir o barco, ajustar a velocidade, gerenciar recursos.
+-Cartógrafo: Abrir mapa, marcar no mapa.
+-Biólogo/Veterinário: Tratar animais feridos, analisar amostras de água, catalogar espécies.
+-Operador de Sonar: Detectar redes de pesca, derramamentos de resíduos, coisas submersas.
+-Intermediário: Controla a luneta, varredura visual do horizonte, identificar embarcações suspeitas e animais à distância.
+
+FERRAMENTAS:
+-Gaiola: Resgate da fauna por meio de captura, tratando os ferimentos e os soltando.
+-Rede: Retirar lixo e materiais indesejados na agua.
+-Câmera: marcar alvos e coletar provas fotográficas.
